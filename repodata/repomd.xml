@@ -1,0 +1,21 @@
+12345 Readme.md none
+
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+<revision>12345</revision>
+
+<data type="primary">
+
+<location href="Readme.md"/>
+<timestamp></timestamp>
+<size></size>
+<open-size></open-size>
+</data>
+
+<data type="filelists">
+<location href="repodata/none"/>
+<timestamp></timestamp>
+<size></size>
+<open-size></open-size>
+</data>
+
+</repomd>
