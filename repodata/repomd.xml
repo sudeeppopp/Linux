@@ -5,14 +5,14 @@
 
 <data type="primary">
 
-<location href="Readme.rar"/>
+<location href="repodata/Readme.zip"/>
 <timestamp></timestamp>
 <size></size>
 <open-size></open-size>
 </data>
 
 <data type="filelists">
-<location href="repodata/none.rar"/>
+<location href="repodata/none.zip"/>
 <timestamp></timestamp>
 <size></size>
 <open-size></open-size>
