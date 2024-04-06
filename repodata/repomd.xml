@@ -1,11 +1,11 @@
-12345 Readme.md none
+12345 Readme.rar none.rar
 
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision>12345</revision>
 
 <data type="primary">
 
-<location href="repodata/Readme.rar"/>
+<location href="Readme.rar"/>
 <timestamp></timestamp>
 <size></size>
 <open-size></open-size>
