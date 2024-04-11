@@ -1,9 +1,20 @@
-12345 Readme.md.gz none.gz
+12345 1fbe8dc3571419e8ed2ae60f65d2d2d126ed5627096f8828fef28504add72fbe
+a25e1fa9f5e6f8705e9ce0caa223568703bec3dbef5e2cf211648e247a62a0cc index.html
 
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision>12345</revision>
 
 <data type="primary">
+<checksum type="sha256">1fbe8dc3571419e8ed2ae60f65d2d2d126ed5627096f8828fef28504add72fbe</checksum>
+<open-checksum type="sha256">a25e1fa9f5e6f8705e9ce0caa223568703bec3dbef5e2cf211648e247a62a0cc</open-checksum>
+<location href="repodata/1fbe8dc3571419e8ed2ae60f65d2d2d126ed5627096f8828fef28504add72fbe-primary.xml.gz"/>
+<timestamp>1712800240</timestamp>
+<size>4109596</size>
+<open-size>31244399</open-size>
+...
+</data>
+
+<data type="old-primary">
 
 <location href="repodata/Readme.md.gz"/>
 <timestamp></timestamp>
